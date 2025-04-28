@@ -2,7 +2,7 @@
 
 Sales car dashboard
 
-This dashboard contains my data analysis from a simulated dataset from car sales in the US during de 2014-2016 period. 
+This dashboard contains my data analysis based on a simulated dataset from car sales in the US during the 2014-2016 period. 
 
 
 use the link below to access the dashboard: 
