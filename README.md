@@ -1,6 +1,4 @@
-# dashboards
-
-Sales car dashboard
+# Sales car Dashboard
 
 This dashboard contains my data analysis based on a simulated dataset from car sales in the US during the 2014-2016 period. 
 
